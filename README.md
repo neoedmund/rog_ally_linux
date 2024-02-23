@@ -1,5 +1,6 @@
 # ROG Ally Linux Support Status
 Update the lastest linux support status for ROG Ally 
+
 Contribution Welcomed : Use `Pull request` or `Issues` please
 
 
